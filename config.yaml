@@ -4,8 +4,6 @@ theme: "herring-cove"
 
 params:
   ProfilePicture: "http://www.pointpark.edu/About/media/About/sunriseoverpittsburgh_dicello_685.jpg"
-  enableLandingPage: true
-  landingPageRedirectUrl: "/post/2016"
   links:
     Home: "/about"
     "2016": "/post/2016"
