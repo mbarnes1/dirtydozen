@@ -9,8 +9,15 @@
     <script type="text/javascript" src="https://cdn.datatables.net/1.10.13/js/jquery.dataTables.min.js"></script>
     <script type="text/javascript">
       $(document).ready(function() {
-          $('#example').DataTable({
-              "ajax": '/data/array.json'
+          $('#male').DataTable({
+              "ajax": '/data/male.json'
+          });
+      } );
+    </script>
+    <script type="text/javascript">
+      $(document).ready(function() {
+          $('#female').DataTable({
+              "ajax": '/data/female.json'
           });
       } );
     </script>
