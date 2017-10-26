@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Dirty Dozen Strava Results</title>
+    <link>mbarnes1.github.io/dirtydozen/post/</link>
+    <description>Recent content in Posts on Dirty Dozen Strava Results</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Mar 2017 11:25:12 -0500</lastBuildDate>
+    
+	<atom:link href="mbarnes1.github.io/dirtydozen/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dirty Dozen 2016</title>
+      <link>mbarnes1.github.io/dirtydozen/post/2016/</link>
+      <pubDate>Fri, 10 Mar 2017 11:25:12 -0500</pubDate>
+      
+      <guid>mbarnes1.github.io/dirtydozen/post/2016/</guid>
+      <description>I ran scoring on last year&amp;rsquo;s 2016 Dirty Dozen, mostly as a test for the upcoming 2017 race. For more details about exactly how rankings were computed from Strava, see Scoring.
+Not surprisingly, there were some differences with the official Dirty Dozen results. Overall, we see almost twice as many people scoring points (female: 12 vs. 7, male: 46 vs. 25 people). This is probably a good thing &amp;ndash; the average rider is engaged and its not all about the top few riders.</description>
+    </item>
+    
+  </channel>
+</rss>

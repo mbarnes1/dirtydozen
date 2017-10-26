@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>mbarnes1.github.io/dirtydozen/post/2016/</loc>
+    <lastmod>2017-03-10T11:25:12-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>mbarnes1.github.io/dirtydozen/</loc>
+    <lastmod>2017-03-10T11:25:12-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>mbarnes1.github.io/dirtydozen/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>mbarnes1.github.io/dirtydozen/</loc>
+    <lastmod>2017-03-10T11:25:12-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>mbarnes1.github.io/dirtydozen/post/</loc>
+    <lastmod>2017-03-10T11:25:12-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>mbarnes1.github.io/dirtydozen/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
