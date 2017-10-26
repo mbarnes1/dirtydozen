@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Dirty Dozen Strava Results</title>
-    <link>mbarnes1.github.io/dirtydozen/tags/</link>
+    <link>https://mbarnes1.github.io/dirtydozen/tags/</link>
     <description>Recent content in Tags on Dirty Dozen Strava Results</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="mbarnes1.github.io/dirtydozen/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mbarnes1.github.io/dirtydozen/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

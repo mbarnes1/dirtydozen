@@ -3,34 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>mbarnes1.github.io/dirtydozen/post/2016/</loc>
+    <loc>https://mbarnes1.github.io/dirtydozen/post/2016/</loc>
     <lastmod>2017-03-10T11:25:12-05:00</lastmod>
   </url>
   
   <url>
-    <loc>mbarnes1.github.io/dirtydozen/</loc>
+    <loc>https://mbarnes1.github.io/dirtydozen/</loc>
     <lastmod>2017-03-10T11:25:12-05:00</lastmod>
   </url>
   
   <url>
-    <loc>mbarnes1.github.io/dirtydozen/categories/</loc>
+    <loc>https://mbarnes1.github.io/dirtydozen/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>mbarnes1.github.io/dirtydozen/</loc>
-    <lastmod>2017-03-10T11:25:12-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>mbarnes1.github.io/dirtydozen/post/</loc>
+    <loc>https://mbarnes1.github.io/dirtydozen/</loc>
     <lastmod>2017-03-10T11:25:12-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>mbarnes1.github.io/dirtydozen/tags/</loc>
+    <loc>https://mbarnes1.github.io/dirtydozen/post/</loc>
+    <lastmod>2017-03-10T11:25:12-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mbarnes1.github.io/dirtydozen/tags/</loc>
     <priority>0</priority>
   </url>
   
