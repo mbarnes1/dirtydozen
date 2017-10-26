@@ -1,5 +1,5 @@
 languageCode: "en-us"
-title: "Dirty Dozen Strava Results"
+title: "DD x Strava"
 theme: "herring-cove"
 baseURL: "https://mbarnes1.github.io/dirtydozen"
 #relativeURLs: True
@@ -8,5 +8,4 @@ publishDir: docs
 params:
   ProfilePicture: "http://www.pointpark.edu/About/media/About/sunriseoverpittsburgh_dicello_685.jpg"
   links:
-    Home: "/index"
     "2016": "/post/2016"

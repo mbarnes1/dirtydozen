@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dirty Dozen Strava Results</title>
+    <title>DD x Strava</title>
     <link>https://mbarnes1.github.io/dirtydozen/</link>
-    <description>Recent content on Dirty Dozen Strava Results</description>
+    <description>Recent content on DD x Strava</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 10 Mar 2017 11:25:12 -0500</lastBuildDate>
@@ -17,18 +17,18 @@
       <pubDate>Fri, 10 Mar 2017 11:25:12 -0500</pubDate>
       
       <guid>https://mbarnes1.github.io/dirtydozen/post/2016/</guid>
-      <description>I ran scoring on last year&amp;rsquo;s 2016 Dirty Dozen, mostly as a test for the upcoming 2017 race. For more details about exactly how rankings were computed from Strava, see Scoring.
+      <description>I ran scoring on last year&amp;rsquo;s 2016 Dirty Dozen, mostly as a test for the upcoming 2017 race. For more details about exactly how rankings were computed from Strava, see the section on scoring.
 Not surprisingly, there were some differences with the official Dirty Dozen results. Overall, we see almost twice as many people scoring points (female: 12 vs. 7, male: 46 vs. 25 people). This is probably a good thing &amp;ndash; the average rider is engaged and its not all about the top few riders.</description>
     </item>
     
     <item>
-      <title>Strava based Dirty Dozen</title>
+      <title>Dirty Dozen results using Strava times</title>
       <link>https://mbarnes1.github.io/dirtydozen/</link>
       <pubDate>Fri, 10 Mar 2017 11:25:12 -0500</pubDate>
       
       <guid>https://mbarnes1.github.io/dirtydozen/</guid>
-      <description>Write this. Why did I do this? (play around with Strava API, really love what Danny has done for the Pittsburgh cycling community) What do I hope people will get out of it?
-Scoring The official Dirty Dozen scoring system is based on the order athletes reach the top of 13 designated hills. So, only riders in the lead pack are eligible to score points. Male competitors use a 10-point system (10 points for 1st, down to 1 point for 10th) and female competitors use a 5-point system (5 points for 1st, down to 1 point 5th).</description>
+      <description>This is a fun experiment with the Strava API to compare against the official Dirty Dozen results. There&amp;rsquo;s a lot of interesting data available which this only begins to explore. I&amp;rsquo;m hoping to add some more analysis and additional ranking schemes later.
+Scoring The official Dirty Dozen scoring system is based on the order athletes reach the top of 13 designated hills. So, only riders in the lead pack are eligible to score points.</description>
     </item>
     
   </channel>
