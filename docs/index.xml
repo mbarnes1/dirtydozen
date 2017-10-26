@@ -27,8 +27,8 @@ Not surprisingly, there were some differences with the official Dirty Dozen resu
       <pubDate>Fri, 10 Mar 2017 11:25:12 -0500</pubDate>
       
       <guid>https://mbarnes1.github.io/dirtydozen/</guid>
-      <description>This is a fun experiment with the Strava API to compare against the official Dirty Dozen results. There&amp;rsquo;s a lot of interesting data available which this only begins to explore. I&amp;rsquo;m hoping to add some more analysis and additional ranking schemes later.
-Scoring The official Dirty Dozen scoring system is based on the order athletes reach the top of 13 designated hills. So, only riders in the lead pack are eligible to score points.</description>
+      <description>This is a fun experiment with the Strava API to compare against the official Dirty Dozen results. There&amp;rsquo;s a lot of interesting data available which this only begins to explore. I&amp;rsquo;m hoping to add some more analysis and additional ranking schemes later. Special thanks to Niko Kovacevic for help debugging the front-end.
+Scoring The official Dirty Dozen scoring system is based on the order athletes reach the top of 13 designated hills.</description>
     </item>
     
   </channel>

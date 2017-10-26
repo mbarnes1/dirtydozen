@@ -5,7 +5,7 @@ title = "Dirty Dozen results using Strava times"
 url = "index.html"
 +++
 
-This is a fun experiment with the Strava API to compare against the official Dirty Dozen results. There's a lot of interesting data available which this only begins to explore. I'm hoping to add some more analysis and additional ranking schemes later. 
+This is a fun experiment with the Strava API to compare against the official Dirty Dozen results. There's a lot of interesting data available which this only begins to explore. I'm hoping to add some more analysis and additional ranking schemes later. Special thanks to [Niko Kovacevic](https://github.com/nikovacevic/) for help debugging the front-end.
 
 Scoring
 -------

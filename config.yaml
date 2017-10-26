@@ -6,6 +6,9 @@ baseURL: "https://mbarnes1.github.io/dirtydozen"
 publishDir: docs
 
 params:
+  linkedin:  "https://www.linkedin.com/in/mbarnes1"
+  github: "https://github.com/mbarnes1"
+  twitter: "http://twitter.com/BarnesMJ"
   ProfilePicture: "http://www.pointpark.edu/About/media/About/sunriseoverpittsburgh_dicello_685.jpg"
   links:
     "2016": "/post/2016"
