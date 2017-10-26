@@ -1,12 +1,29 @@
+<html>
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Strava based Dirty Dozen</title>
+  <title>Dirty Dozen Strava Results</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="">
+  <link href="https://mbarnes1.github.io/dirtydozen/index.xml" rel="alternate" type="application/rss+xml" title="Dirty Dozen Strava Results" />
+  <link href="https://mbarnes1.github.io/dirtydozen/css/bootstrap.min.css" rel="stylesheet">
+  <link href="https://mbarnes1.github.io/dirtydozen/css/hc.css" rel="stylesheet">
+  <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+  
+    
+    </head>
+	<body>
+	
+		<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Dirty Dozen Strava Results</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="">
   <meta name="generator" content="Hugo 0.29" />
-  <link href="" rel="alternate" type="application/rss+xml" title="Dirty Dozen Strava Results" />
+  <link href="https://mbarnes1.github.io/dirtydozen/index.xml" rel="alternate" type="application/rss+xml" title="Dirty Dozen Strava Results" />
   <link href="https://mbarnes1.github.io/dirtydozen/css/bootstrap.min.css" rel="stylesheet">
   <link href="https://mbarnes1.github.io/dirtydozen/css/hc.css" rel="stylesheet">
   <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
@@ -71,45 +88,15 @@
 
 
   <div id="article">
-   <div class="article-title">Strava based Dirty Dozen</div>
-   <p class="meta"><small>&nbsp;<i class="fa fa-calendar-o"></i> 2017-03-10</small></p> <hr/>
-   <div class="post">
-     
-
-<p>Write this. Why did I do this? (play around with Strava API, really love what Danny has done for the Pittsburgh cycling community)
-What do I hope people will get out of it?</p>
-
-<h2 id="scoring">Scoring</h2>
-
-<p>The official Dirty Dozen scoring system is based on the order athletes reach the top of 13 designated hills. So, only riders in the lead pack are eligible to score points. Male competitors use a 10-point system (10 points for 1st, down to 1 point for 10th) and female competitors use a 5-point system (5 points for 1st, down to 1 point 5th). Competitors must finish all 13 hills to be ranked. The system is simple and, barring any unusual circumstances, provides a clear winner.</p>
-
-<p>I’ve considered two scoring the systems based on Strava data, where instead of ranking athletes based on the time-of-day they reach the top of the hill, it is instead based on <strong><em>time from bottom to top of the hill</em></strong>, i.e. a Strava segment. There are several advantages of using a Strava based approach. First, it does not matter where in the pack a rider begins, or even that they ride with the lead pack at all. There is no fighting for position in the pack, simply because it does not matter. Logistically, it makes collecting results super easy (all these results are generated automatically through the Strava API).</p>
-
-<p>Obviously, there are some disadvantages of using Strava. Segment time are prone to GPS error, not all participants use Strava, and standings are unclear until all riders finish and upload their ride.</p>
-
-<h4 id="points-system">Points System</h4>
-
-<p>This is the classic points based system used by Danny Chew, with a couple small modifications. It’s possible for riders to tie on Strava, and when this occurs occurs, I’ve awarded both riders the number of points for the better position (e.g. if times for top 4 male riders are 45s, 49s, 46s, and 46s each rider gets 10, 7, 9 and 9 points, respectively). Due to the number of people whose Canton Ave segment is missing (the hill is quite short and GPS does not always pick it up), I did not require athletes to necessarily finish all the hills to be ranked.</p>
-
-<h4 id="rank-aggregation">Rank Aggregation</h4>
-
-   </div>
- </div>
-
-
- <a href="https://twitter.com/share" class="twitter-share-button " data-size="small" data-count="none">Tweet</a>
- <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-
- <ul class="pager">
-      &nbsp;<li class="previous"><a href="https://mbarnes1.github.io/dirtydozen/post/2016/"> Dirty Dozen 2016</a></li>
-     
-</ul>
-
-
-
-    </ul>
-    </div>
-    <footer>
+      <h1>Dirty Dozen Strava Results</h1>
+  <ul class="posts">
+      
+      <li><span><a href="/dirtydozen/post/2016/">Dirty Dozen 2016</a><time class="pull-right post-list">Fri, Mar 10, 2017</h4></time></span></span></li>
+      
+      <li><span><a href="/dirtydozen/">Strava based Dirty Dozen</a><time class="pull-right post-list">Fri, Mar 10, 2017</h4></time></span></span></li>
+      
+  </ul>
+	    <footer>
         <p class="text-muted credit">&copy; 2017 Matt Barnes. All rights reserved. </p>
     </footer>
     
@@ -121,14 +108,14 @@ What do I hope people will get out of it?</p>
     <script type="text/javascript">
       $(document).ready(function() {
           $('#male').DataTable({
-              "ajax": "mbarnes1.github.io/dirtydozen/data/male.json"
+              "ajax": "https://mbarnes1.github.io/dirtydozen/data/male.json"
           });
       } );
     </script>
     <script type="text/javascript">
       $(document).ready(function() {
           $('#female').DataTable({
-              "ajax": "mbarnes1.github.io/dirtydozen/data/female.json"
+              "ajax": "https://mbarnes1.github.io/dirtydozen/data/female.json"
           });
       } );
     </script>
@@ -136,3 +123,7 @@ What do I hope people will get out of it?</p>
 
 </html>
 
+	
+
+	</body>
+</html>
